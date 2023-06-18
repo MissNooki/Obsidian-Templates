@@ -1,70 +1,41 @@
 ---
-Tags: planning/2023 
+Tags: 
 Week: 
 Month: <% tp.date.now(format: string = "MM") %> 
 Year: <% tp.date.now(format: string = "YYYY") %>
 ---
 
 > [!multi-column]
->> [!info] EVENTS & TERMINE 
+>> [!info] EVENTS & APPOINTMENTS 
 > 
->> [!warning] WICHTIG!
+>> [!warning] IMPORTANT!
  
 > [!multi-column]
->> [!example] WÄHREND DER WOCHE 
+>> [!example] DURING THE WEEK
 > 
->> [!todo] TÄGLICH
+>> [!todo] DAILY
 
-## Montag
-#### Haushalt 
-
-
-#### Anderes
+## MONDAY
 
 
-## Dienstag
-#### Haushalt 
+## TUESDAY
 
 
-#### Anderes
+## WEDNESDAY
 
 
-## Mittwoch
-#### Haushalt 
+## THURSDAY
 
 
-#### Anderes
+## FRIDAY
 
 
-## Donnerstag
-- [6] Free Epic Games Spiel  
-#### Haushalt 
+## SATURDAY
 
 
-#### Anderes
+## SUNDAY
 
 
-## Freitag
-#### Haushalt 
-
-
-#### Anderes
-
-
-## Samstag
-#### Haushalt 
-
-
-#### Anderes
-
-
-## Sonntag
-#### Haushalt 
-
-
-#### Anderes
-
-
-## Nächste Woche
+## Next Week
 
 ## Log 
